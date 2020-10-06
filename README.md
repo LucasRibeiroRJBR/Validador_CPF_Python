@@ -14,7 +14,7 @@ Regras para a validação do **segundo dígito verificador**:
 * Usando o primeiro dígito verificador obtido, multiplicamos ele por 2;
 * O resultado de todas as multiplicações somamos e então multiplicamos por 10 e obtemos o resto da divisão por 11;
 * Segundo dígito verificados obtido com sucesso.  
-</br>
+
 ---  
 
 >Validação  
