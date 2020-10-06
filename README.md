@@ -1,4 +1,4 @@
-bbbbb# Validador de CPF em Python
+# Validador de CPF em Python
 
 >Regras
 
@@ -20,7 +20,7 @@ Regras para a validação do **segundo dígito verificador**:
 >Validação  
 
 Igualamos se os resultados são compatíveis ou não e assim é feito a validação.  
-</br>
+
 ---  
 
 >Exemplo  
