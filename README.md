@@ -1,5 +1,19 @@
 # Validador de CPF em Python
 
+>ScreeShots  
+
+**Tela inicial**  
+![](https://snipboard.io/TbkrNj.jpg)
+
+**Tela indicando que o número CPF é válido**  
+![](https://snipboard.io/cN9eIm.jpg)
+
+**Tela indicando que o número CPF é válido**  
+![](https://snipboard.io/MOb3he.jpg)
+
+**Também funciona utilizando pontos e traços padrões do CPF**  
+![](https://snipboard.io/K9itvp.jpg)
+
 >Regras
 
 Regras para a validação do **primeiro dígito verificador**:
