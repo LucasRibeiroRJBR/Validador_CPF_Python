@@ -53,5 +53,8 @@ Igualamos se os resultados são compatíveis ou não e assim é feito a validaç
 116.840.450-<span style="color: yellow; bold">**96**</span>
 </br>
 ---
+>Créditos  
+
+Icons designed by <a href="https://www.flaticon.es/autores/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.es/" title="Flaticon"> www.flaticon.es</a>
 
 
