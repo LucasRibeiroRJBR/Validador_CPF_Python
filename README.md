@@ -64,8 +64,8 @@ Igualamos se os resultados são compatíveis ou não e assim é feito a validaç
 </br>  
 ---
 
-116.840.450-<span style="color: yellow; bold">**96**</span>
-</br>
+116.840.450-**96** 
+
 ---
 >Créditos  
 
